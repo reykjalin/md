@@ -11,6 +11,13 @@ surprised if this crashes or breaks in some way.
 This does not respect code blocks or anything of the sort; all lines that start with any number of
 `#` characters will be scaled.
 
+## Demo
+
+Taken from my comment on the [Ghostty discussions forum](https://github.com/ghostty-org/ghostty/discussions/5563#discussioncomment-12059010).
+
+<video src="https://github.com/user-attachments/assets/4a6ca12c-47f9-4336-8c34-6ab372029560">
+</video>
+
 ## Usage
 
 ```sh
